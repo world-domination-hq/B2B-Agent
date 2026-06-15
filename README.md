@@ -1,46 +1,79 @@
 # BIO CMC Target Agent
 
-A folder-driven research pipeline for finding and scoring RNA / biologics CMC opportunities. No coding. You run it by pasting prompts into an AI assistant (Claude) and saving the answers into folders.
+A work-in-progress single-user MVP for BIO CMC target research, scoring, and tracking. This repo now contains both the active implementation and the BMAD planning workflow.
 
-## What this does, in one breath
+## Current status
 
-For each target company, it finds the right people (BD, scientist, marketing, exec), pulls real background on them and the company, scores how well they fit a CMC-partner engagement, checks whether they are attending BIO, and writes you a one-page brief with an opener.
+This project is under active build. The current repo includes:
 
-## The big idea: company vs arm
+- a Streamlit-based app scaffold in `app/`
+- local persistence, scoring logic, and model integration support
+- a public landing page in `index.html`, `assets/`, and `features/`
+- the full BMAD planning toolchain for product, architecture, and implementation
+- UX/design draft artifacts in `design-artifacts/`
 
-You are not targeting whole companies. You are targeting the small RNA or biologics **arm** inside a company that runs like a startup during its de-risking spend. A genetics or tools franchise standing up an mRNA platform on a lean team is your buyer even if the parent is huge. The agent's first job is to detect those arms. See `01_schema/scoring_schema.md`.
+## What this repo is for
 
-## How to run it (the loop)
+Build and validate a local BIO CMC Target Agent that:
 
-1. Pick a company from `00_targets/target_list.md`.
-2. Gather raw facts into `03_inputs/` (where to look is in each prompt).
-3. Open `02_prompts/` and run the four prompts in order, pasting your raw facts each time.
-4. Save the final brief into `04_outputs/`.
-5. Move the best targets into ClickUp using the field map in the schema.
+- ingests target research manually or with AI-assisted lookup
+- applies a fixed CMC scoring schema
+- displays ranked targets in a dashboard
+- supports editable records and status tracking
+- provides a plain-English summary and review flags
+- exports results to CSV for ClickUp or manual workflow
 
-## Folder map
+## Important folders
 
-```
-bio-cmc-agent/
-  README.md                         <- you are here
-  00_targets/
-    target_list.md                  <- the full master list (Document A)
-    target_list.csv                 <- same list as an editable table
-  01_schema/
-    scoring_schema.md               <- the agent's brain: fields, scoring, arm signals (Document B)
-  02_prompts/
-    step1_find_contacts.md          <- paste-in prompts, run in order
-    step2_enrich.md
-    step3_score.md
-    step4_write_brief.md
-  03_inputs/
-    EXAMPLE_input_replicate.md      <- what raw facts look like before scoring
-  04_outputs/
-    EXAMPLE_brief_replicate.md      <- what a finished brief looks like
-  05_build_plan/
-    build_plan_eli5.md              <- day by day, 2 to 3 days
-```
+- `app/` — current MVP implementation
+- `00_Targets/` — seed target list and working target data
+- `01_Schema/` — scoring schema and source-of-truth fields
+- `02_Prompts/` — BMAD prompt workflow and agent templates
+- `03_Inputs/` — raw example input notes
+- `04_outputs/` — example completed briefs
+- `05_Build Plan/` — build plan and planning notes
+- `PROJECT_BRIEF.md` — BMAD planning input
+- `prd.md` — generated product requirements
+- `BMAD_PROMPTS.md` — exact BMAD prompts for the project
+- `_bmad/`, `.agents/`, `.github/` — BMAD tooling and agent configuration
+- `design-artifacts/` — UX/draft design reference material
+- `index.html`, `assets/`, `features/` — public landing page
 
-## Start here
+## Design artifacts
 
-Read `05_build_plan/build_plan_eli5.md` first. It tells you exactly what to do on Day 1.
+Keep `design-artifacts/` as active UX reference while design is still in draft. It is useful for later decisions and should remain alongside the implementation.
+
+## How to run the app
+
+1. Install Python dependencies:
+   - `cd app && pip install -r requirements.txt`
+2. Set Claude environment variables if using AI:
+   - `CLAUDE_API_KEY`
+   - `CLAUDE_API_URL`
+3. Start the app:
+   - `streamlit run app/streamlit_app.py`
+
+## BMAD workflow
+
+This repo preserves the full BMAD planning and validation workflow.
+
+Use the following order:
+
+1. `PROJECT_BRIEF.md` is the project planning input.
+2. Run `bmad-agent-pm` with the brief to generate or refine `prd.md`.
+3. Run `bmad-agent-architect` to generate `architecture.md`.
+4. Use `bmad-agent-builder` or `bmad-agent-dev` to implement stories.
+
+## Notes
+
+- The implementation is intentionally single-user and local.
+- The scoring schema in `01_Schema/scoring_schema.md` is the source of truth.
+- This project is not building LinkedIn scraping or automated private-data collection.
+- `design-artifacts/` is draft UX work and should be kept as a reference, not as the main app.
+
+## Useful next steps
+
+- Continue building the Streamlit MVP in `app/`.
+- Use `PROJECT_BRIEF.md` and `prd.md` as the active planning docs.
+- Keep `design-artifacts/` for UX reference while your design is not finalized.
+- Keep the BMAD tooling intact for planning, validation, and shipping.

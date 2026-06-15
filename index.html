@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BIO CMC Target Agent</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/logo.svg" alt="BIO CMC Agent logo" class="logo" />
+    <h1>BIO CMC Target Agent</h1>
+    <p>A public-facing landing page for the folder-driven RNA / biologics CMC target scouting system.</p>
+    <a class="button" href="features/features.md">View features</a>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>What this repo does</h2>
+      <p>This project is a research pipeline for finding the CMC-focused business development targets that matter most ahead of BIO.</p>
+      <ul>
+        <li>Collect raw company and contact facts into `03_inputs/`.</li>
+        <li>Run the prompt workflow in `02_prompts/` for scoring and briefing.</li>
+        <li>Publish final briefs to `04_outputs/` and export to ClickUp.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>How to use it</h2>
+      <p>Start by reading the public build plan and the schema documents, then follow the folder-by-folder workflow.</p>
+      <ul>
+        <li>Read `05_Build Plan/build_plan_eli5.md` first.</li>
+        <li>Use `00_Targets/target_list.md` to choose priorities.</li>
+        <li>Gather raw facts and save them into `03_inputs/`.</li>
+        <li>Run `02_prompts/` sequentially and save outputs into `04_outputs/`.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Page structure</h2>
+      <ul>
+        <li><strong>assets/</strong> holds styles and public graphics.</li>
+        <li><strong>features/</strong> explains the page and system capabilities.</li>
+        <li><strong>index.html</strong> is the public landing page.</li>
+        <li><strong>README.md</strong> remains the main repo guide.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Next step</h2>
+      <p>Open `features/features.md` and `05_Build Plan/build_plan_eli5.md` for the next action. Use this public page as the front door for the project.</p>
+      <a class="button" href="05_Build Plan/build_plan_eli5.md">Open build plan</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>Designed for public sharing and easy onboarding.</p>
+  </footer>
+</body>
+</html>
