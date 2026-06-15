@@ -82,6 +82,19 @@ def sidebar_add_target():
                 st.sidebar.success("Company record added")
 
 
+def render_target_directory(targets):
+    st.subheader("Target directory")
+    if not targets:
+        st.info("No saved targets yet. Add one from the sidebar.")
+        return
+
+    directory_options = [f"{t['company']} — {t.get('status', 'to-research')}" for t in targets]
+    selected_name = st.selectbox("Open a saved target", [""] + directory_options, key="target_directory")
+    if selected_name:
+        selected_index = directory_options.index(selected_name)
+        st.session_state.selected_target = targets[selected_index]['id']
+
+
 def render_dashboard():
     st.header("Dashboard")
     query = st.text_input("Search targets")
@@ -90,6 +103,9 @@ def render_dashboard():
         st.info("No targets found. Add one from the sidebar.")
         return
 
+    render_target_directory(targets)
+
+    st.markdown("---")
     for target in targets:
         with st.expander(f"{target['company']} — {target.get('fit_band', 'unknown')} ({target.get('status', 'unset')})"):
             st.markdown(f"**Score:** {target.get('fit_score', 'n/a')}  |  **Status:** {target.get('status', 'n/a')}")
