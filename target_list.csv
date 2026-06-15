@@ -1,0 +1,39 @@
+company,group,parent_franchise,modality,engagement,evidence,catch_at,priority
+AGC Biologics,service_provider,,mRNA+plasmid CDMO,relationship,confirmed,C14 Excalibur gala,2
+ProBio,service_provider,GenScript,mRNA+plasmid CMC,relationship,confirmed,C14 Excalibur gala,2
+PCI Pharma Services,service_provider,,sterile fill-finish,partner,confirmed,Lusk facility tours,3
+Bora Biologics,service_provider,,biologics CDMO,partner,confirmed,Bora reception,3
+Bionova Scientific,service_provider,,antibody CDMO,relationship,confirmed,C14 Excalibur gala,3
+STC Biologics,service_provider,,biologics CMC/analytical,partner,confirmed,C14 Excalibur gala,3
+New Biologix,service_provider,,gene therapy/AAV CDMO,partner,confirmed,C14 Excalibur gala,3
+Replicate Bioscience,standalone_rna,,srRNA HIV/malaria/rabies,consulting,confirmed,BIO Partnering / San Diego mixers,1
+Strand Therapeutics,standalone_rna,,saRNA IL-12,consulting,confirmed,BIO Partnering,1
+Arcturus Therapeutics,standalone_rna,,commercial sa-mRNA,relationship,confirmed,BIO Partnering / local,2
+Sail Biomedicines,standalone_rna,Flagship,circRNA+LNP,consulting,confirmed,BIO Partnering,2
+Immorna,standalone_rna,,saRNA shingles/flu,consulting,confirmed,BIO Partnering,2
+CirCode Biomed,standalone_rna,,circRNA,consulting,candidate-verify,verify,3
+Altamira Therapeutics,standalone_rna,,RNA delivery,consulting,candidate-verify,verify,3
+HDT Bio,standalone_rna,,saRNA/LNP,consulting,candidate-verify,verify,3
+SunVax mRNA Therapeutics,standalone_rna,,mRNA,consulting,candidate-verify,verify,3
+NoctuRNA Therapeutics,standalone_rna,,RNA,consulting,candidate-verify,verify,3
+Keylicon Biosciences,standalone_rna,,RNA,consulting,candidate-verify,verify,3
+Kernal Biologics,standalone_rna,,onco circRNA/mRNA,consulting,candidate-verify,verify,3
+Orna Therapeutics,standalone_rna,,circRNA,consulting,candidate-verify,verify,3
+Pfizer,franchise_arm,Pfizer,mRNA,relationship,candidate-verify,verify arm,3
+J&J,franchise_arm,Johnson & Johnson,RNA/genetic medicine,relationship,candidate-verify,verify arm,3
+Gilead,franchise_arm,Gilead,RNA?,relationship,candidate-verify,verify arm,4
+Eli Lilly,franchise_arm,Eli Lilly,oligonucleotide/siRNA,consulting,candidate-verify,verify arm,3
+Illumina,franchise_arm,Illumina,tools/sequencing,partner,candidate-verify,confirm not a client,4
+Sanofi,franchise_arm,Sanofi,mRNA CoE,relationship,candidate-verify,verify arm,3
+GSK,franchise_arm,GSK,mRNA,relationship,candidate-verify,verify arm,3
+Merck,franchise_arm,Merck,mRNA (Moderna partner),relationship,candidate-verify,verify arm,3
+AstraZeneca,franchise_arm,AstraZeneca,oligonucleotide,relationship,candidate-verify,verify arm,3
+Roche/Genentech,franchise_arm,Roche,RNA,relationship,candidate-verify,verify arm,3
+Novartis,franchise_arm,Novartis,siRNA,relationship,candidate-verify,verify arm,4
+CSL/Seqirus,franchise_arm,CSL,sa-mRNA (Arcturus partner),relationship,candidate-verify,verify arm; warm,2
+Bayer,franchise_arm,Bayer,gene therapy/mRNA,consulting,candidate-verify,verify arm,3
+Regeneron,franchise_arm,Regeneron,RNA (Alnylam),relationship,candidate-verify,verify arm,4
+Takeda,franchise_arm,Takeda,new modalities,relationship,candidate-verify,verify arm,4
+California Life Sciences,channel,,association,channel,confirmed,member reach,2
+Biocom California,channel,,association,channel,confirmed,events,2
+Nucleate,channel,,founder org,channel,confirmed,Nucleate reception,2
