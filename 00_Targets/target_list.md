@@ -21,6 +21,15 @@ These build or promote RNA CMC. They buy branded educational content and hire sc
 | Bionova Scientific | biologics (antibody) CDMO | relationship | confirmed | C14 "Excalibur" gala |
 | STC Biologics | biologics CMC / analytical development | partner | confirmed | C14 "Excalibur" gala |
 | New Biologix | gene therapy / AAV CDMO | partner | confirmed | C14 "Excalibur" gala |
+| Rentschler Biopharma SE | biologics CDMO; BioNTech mRNA downstream pedigree | relationship | candidate-verify | BIO 2026 T4 5:00 |
+| Resilience | advanced-therapy CDMO, RNA-capable | partner | candidate-verify | BIO 2026 T1 2:15 |
+| Celonic Group | biologics CDMO (mAbs/bispecifics + RNA capability) | partner | candidate-verify | BIO 2026 T1 1:45 |
+| Mabion S.A. | biologics CDMO (Poland) | partner | candidate-verify | BIO 2026 T1 10:30 |
+| GBI Biomanufacturing | large-molecule CDMO (drug substance + drug product) | partner | candidate-verify | BIO 2026 T3 4:15 |
+| Forge Biologics | gene therapy CDMO (AAV; Ajinomoto) | partner | candidate-verify | BIO 2026 T1 2:00 |
+| BSP Pharmaceuticals | oncology/immunotherapy CDMO | partner | candidate-verify | BIO 2026 T3 3:30 |
+| 2T Therapeutics Partnership | ODDIFACT (regulatory AI) + Mabion (CDMO) co-development | partner | candidate-verify | BIO 2026 T3 12:00 |
+| QYOBO GmbH | manufacturing-network intelligence platform; CDMO network map | channel | candidate-verify | BIO 2026 T3 3:00 |
 
 ---
 
@@ -35,14 +44,32 @@ Lean teams, pre-GMP or early-GMP, real CMC gap. Find via BIO Partnering director
 | Arcturus Therapeutics | commercial sa-mRNA; KOSTAIVE; Nasdaq ARCT (10-K); San Diego | relationship | confirmed | Warm via your history. Commercial-stage. |
 | Sail Biomedicines | circRNA + AI + LNP (Flagship; Laronde/Senda) | consulting | confirmed | |
 | Immorna | saRNA; shingles / flu Ph1 | consulting | confirmed | |
-| CirCode Biomed | circRNA | consulting | candidate-verify | from saRNA summit roster |
+| CirCode Biomed | clinical-stage circRNA therapeutics platform | consulting | candidate-verify | BIO 2026 T1 4:30; from saRNA summit roster |
 | Altamira Therapeutics | RNA delivery | consulting | candidate-verify | |
 | HDT Bio | saRNA / LNP (AMPLIFY) | consulting | candidate-verify | |
 | SunVax mRNA Therapeutics | mRNA | consulting | candidate-verify | |
 | NoctuRNA Therapeutics | RNA | consulting | candidate-verify | |
 | Keylicon Biosciences | RNA | consulting | candidate-verify | |
-| Kernal Biologics | onco circRNA/mRNA | consulting | candidate-verify | |
+| Kernal Bio | selective mRNA-LNP for in vivo CAR-T (cancer + autoimmune) | consulting | candidate-verify | BIO 2026 T3 11:15; overlaps Kernal Biologics — verify same co. |
 | Orna Therapeutics | circRNA (oRNA) | consulting | candidate-verify | |
+| Dillico | continuous mRNA/saRNA/gRNA-LNP manufacturing (All-ScaleFlow) | consulting | candidate-verify | BIO 2026 T3 3:15; highest CMC fit |
+| MOTE Therapeutics | targeted LNP (tLNP) for extrahepatic circRNA/mRNA + in vivo CAR-T | consulting | candidate-verify | BIO 2026 T3 4:30 |
+| Combined Therapeutics | mRNA translation-cell-selective platform (MOP) | consulting | candidate-verify | BIO 2026 T3 12:15 |
+| Therorna | circRNA via splint-free enzymatic circularization + targeted LNP | consulting | candidate-verify | BIO 2026 T3 3:30 |
+| NIBEC | peptide delivery (NIPEP-TPP) for siRNA/RNA including BBB crossing | consulting | candidate-verify | BIO 2026 T4 2:15 |
+| Amber Bio | RNA editing via Splice Editors (multi-kilobase RNA writing) | consulting | candidate-verify | BIO 2026 T3 2:30 |
+| RecoRNA | RNA-targeted technologies (genetic, neuro, metabolic, immuno-onc); HK | consulting | candidate-verify | BIO 2026 T1 4:45 |
+| Reborna Biosciences | RNA-targeted small molecule therapeutics | consulting | candidate-verify | BIO 2026 T4 2:00 |
+| Sebastian BioPharma | antibody-oligonucleotide conjugate (AOC) platform, solid tumors | consulting | candidate-verify | BIO 2026 T3 2:45 |
+| Highlight Therapeutics | dsRNA platform, lead asset BO-112 | consulting | candidate-verify | BIO 2026 T1 4:00 |
+| BTB Therapeutics | small molecule RNA splicing modifiers (rare disease) | consulting | candidate-verify | BIO 2026 T2 4:45 |
+| A-Form Solutions | RNA structural biology, scaffold-based cryo-EM; San Diego; tools/discovery | partner | candidate-verify | BIO 2026 T1 5:00 |
+| Tessera Therapeutics | Gene Writing, RNA-delivered genome writing | consulting | candidate-verify | BIO 2026 T3 11:45 |
+| ILIAS Biologics | engineered exosome delivery (RNA-payload capable) | consulting | candidate-verify | BIO 2026 T1 4:00 |
+| Immuno Cure | DNA medicine + antibody platforms; HIV/ID lens (DNA, not RNA) | relationship | candidate-verify | BIO 2026 T4 2:15; HK |
+| ExpressionEdits | gene-expression/intron engineering; modality unconfirmed — verify RNA before scoring | consulting | candidate-verify | BIO 2026 T1 3:15 |
+| DNA Nanobots | targeted non-viral gene (DNA) delivery | partner | candidate-verify | BIO 2026 T4 4:45 |
+| Altratech | DNA/RNA detection with PNA probes; diagnostics not therapeutics | partner | candidate-verify | BIO 2026 T1 3:15 |
 
 Asia-based RNA platforms with active trials (only if you take APAC clients): RiboX Therapeutics, VLP Therapeutics, Ractigen Therapeutics, Abogen (ABO2102), RinuaGene, Newish Biotech. Evidence: `confirmed` trials, `candidate-verify` for fit.
 
@@ -54,21 +81,27 @@ Big parents standing up, or capable of standing up, a lean RNA / biologics arm i
 
 | Parent franchise | Why it is a candidate | Likely engagement | Evidence | Agent's verify task |
 |---|---|---|---|---|
-| Pfizer | Comirnaty with BioNTech + internal mRNA | relationship/consulting | candidate-verify | find the arm, its CMC team size, its stage |
-| J&J | prior Janssen mRNA/vaccine + genetic medicine interest | relationship/consulting | candidate-verify | confirm a live RNA arm vs wound-down COVID work |
+| Pfizer | Comirnaty with BioNTech + internal mRNA | relationship/consulting | candidate-verify | find the arm, its CMC team size, its stage; BIO 2026 T2 2:30 |
+| J&J | prior Janssen mRNA/vaccine + genetic medicine interest | relationship/consulting | candidate-verify | confirm a live RNA arm vs wound-down COVID work; BIO 2026 T2 2:45 |
 | Gilead | antivirals + Kite cell therapy; RNA interest thinner | relationship | candidate-verify | confirm any RNA platform arm exists |
-| Eli Lilly | Lilly genetic medicine; oligonucleotide / siRNA work | consulting/relationship | candidate-verify | find the modality and arm stage |
+| Eli Lilly | Lilly genetic medicine; oligonucleotide / siRNA work | consulting/relationship | candidate-verify | find the modality and arm stage; BIO 2026 T2 12:15 |
 | Illumina | sequencing / tools, not a drug developer | partner | candidate-verify | likely referral source, not CMC client; confirm |
-| Sanofi | mRNA Center of Excellence | relationship/consulting | candidate-verify | arm stage + CMC maturity |
+| Sanofi | mRNA Center of Excellence | relationship/consulting | candidate-verify | arm stage + CMC maturity; BIO 2026 T2 1:45 |
 | GSK | mRNA programs (CureVac history) | relationship | candidate-verify | |
-| Merck | Moderna cancer-vaccine partner | relationship | candidate-verify | mostly partnered, confirm internal arm |
+| Merck / MSD | Moderna cancer-vaccine partner | relationship | candidate-verify | mostly partnered, confirm internal arm; BIO 2026 T2 2:15 |
 | AstraZeneca | oligonucleotide (Ionis), vaccine work | relationship/consulting | candidate-verify | |
-| Roche / Genentech | RNA programs across units | relationship | candidate-verify | |
+| Roche / Genentech | RNA programs across units | relationship | candidate-verify | BIO 2026 T2 11:30 |
+| Chugai (Roche group) | Roche group RNA/biologic programs | relationship | candidate-verify | BIO 2026 T2 11:30; presenting alongside Genentech |
 | Novartis | siRNA (inclisiran) commercial | relationship | candidate-verify | commercial, lower CMC-gap probability |
 | CSL / Seqirus | Arcturus sa-mRNA partner | relationship/consulting | candidate-verify | warm via your Arcturus history |
 | Bayer | gene therapy (AskBio); mRNA interest | consulting | candidate-verify | |
 | Regeneron | RNA via Alnylam partnership | relationship | candidate-verify | |
 | Takeda | plasma + new modalities | relationship | candidate-verify | |
+| Amgen | siRNA/oligo (e.g., olpasiran); large molecule breadth | relationship | candidate-verify | BIO 2026 T2 11:45 |
+| Novo Nordisk | oligo/RNAi via acquisitions; metabolic focus | relationship | candidate-verify | BIO 2026 T2 12:15 |
+| Daiichi Sankyo | modality breadth (ADCs + RNA interest) | relationship | candidate-verify | BIO 2026 T2 12:00 |
+| Boehringer Ingelheim | biologic CMC depth; RNA/gene interest | relationship | candidate-verify | BIO 2026 T2 12:00 |
+| Servier | oncology programs; RNA adjacency | relationship | candidate-verify | BIO 2026 T2 2:00 |
 
 ### Channel and association targets (not clients: reach and programming)
 
@@ -77,6 +110,19 @@ Big parents standing up, or capable of standing up, a lean RNA / biologics arm i
 | California Life Sciences | member reach, workshops, programming | channel |
 | Biocom California | San Diego ecosystem, events | channel |
 | Nucleate | earliest founders, future ICP pipeline | channel |
+| Swiss Rockets AG | umbrella portfolio of biotechs; intro hub | channel |
+| Calico Life Sciences | Alphabet aging-research platform; network into aging/RNA-aging work | channel |
+| City of Hope | large cancer research institution (CAR/RNA programs, deep network) | channel |
+| KAIMRC | Saudi biomedical research hub | channel |
+| King Saud bin Abdulaziz Univ for Health Sciences | Saudi academic health hub | channel |
+| BioHarvest Sciences | plant-cell biomanufacturing platform; manufacturing connector | channel |
+| Applied Biotechnology Institute | protein-production platform; manufacturing connector | channel |
+| Iambic | AI-discovery platform; target-ID node feeding RNA programs | channel |
+| Model Medicines | AI-discovery platform | channel |
+| Eigen Bio AI | AI-discovery platform | channel |
+| Fathom Therapeutics | AI-discovery platform | channel |
+| Evogene | AI-discovery platform | channel |
+| BostonGene | AI-discovery/genomics platform | channel |
 
 ---
 
