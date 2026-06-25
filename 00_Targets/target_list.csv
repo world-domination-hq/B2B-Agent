@@ -37,50 +37,50 @@ Takeda,franchise_arm,Takeda,new modalities,relationship,candidate-verify,verify 
 California Life Sciences,channel,,association,channel,confirmed,member reach,2
 Biocom California,channel,,association,channel,confirmed,events,2
 Nucleate,channel,,founder org,channel,confirmed,Nucleate reception,2
-Rentschler Biopharma SE,service_provider,,biologics CDMO/mRNA downstream,relationship,candidate-verify,BIO 2026 T4 5:00,2
-Resilience,service_provider,,advanced-therapy CDMO RNA-capable,partner,candidate-verify,BIO 2026 T1 2:15,2
-Celonic Group,service_provider,,biologics CDMO mAbs/bispecifics+RNA,partner,candidate-verify,BIO 2026 T1 1:45,3
-Mabion S.A.,service_provider,,biologics CDMO Poland,partner,candidate-verify,BIO 2026 T1 10:30,3
-GBI Biomanufacturing,service_provider,,large-molecule CDMO,partner,candidate-verify,BIO 2026 T3 4:15,3
-Forge Biologics,service_provider,,gene therapy CDMO AAV/Ajinomoto,partner,candidate-verify,BIO 2026 T1 2:00,3
-BSP Pharmaceuticals,service_provider,,oncology/immunotherapy CDMO,partner,candidate-verify,BIO 2026 T3 3:30,3
-2T Therapeutics Partnership,service_provider,,regulatory AI + CDMO co-development,partner,candidate-verify,BIO 2026 T3 12:00,3
-QYOBO GmbH,channel,,CDMO network intelligence platform,channel,candidate-verify,BIO 2026 T3 3:00,3
-Dillico,standalone_rna,,continuous mRNA/saRNA/gRNA-LNP mfg (All-ScaleFlow),consulting,candidate-verify,BIO 2026 T3 3:15,1
-MOTE Therapeutics,standalone_rna,,targeted LNP extrahepatic circRNA/mRNA + in vivo CAR-T,consulting,candidate-verify,BIO 2026 T3 4:30,1
-Combined Therapeutics,standalone_rna,,mRNA cell-selective translation platform (MOP),consulting,candidate-verify,BIO 2026 T3 12:15,1
-Therorna,standalone_rna,,circRNA splint-free enzymatic circularization + targeted LNP,consulting,candidate-verify,BIO 2026 T3 3:30,1
-NIBEC,standalone_rna,,peptide delivery NIPEP-TPP for siRNA/RNA incl BBB,consulting,candidate-verify,BIO 2026 T4 2:15,2
-Amber Bio,standalone_rna,,RNA editing Splice Editors multi-kilobase,consulting,candidate-verify,BIO 2026 T3 2:30,2
-RecoRNA,standalone_rna,,RNA-targeted (genetic/neuro/metabolic/IO); HK,consulting,candidate-verify,BIO 2026 T1 4:45,2
-Reborna Biosciences,standalone_rna,,RNA-targeted small molecule therapeutics,consulting,candidate-verify,BIO 2026 T4 2:00,3
-Sebastian BioPharma,standalone_rna,,antibody-oligonucleotide conjugate (AOC) solid tumors,consulting,candidate-verify,BIO 2026 T3 2:45,3
-Highlight Therapeutics,standalone_rna,,dsRNA platform BO-112,consulting,candidate-verify,BIO 2026 T1 4:00,3
-BTB Therapeutics,standalone_rna,,small molecule RNA splicing modifiers rare disease,consulting,candidate-verify,BIO 2026 T2 4:45,3
-A-Form Solutions,standalone_rna,,RNA structural biology cryo-EM tools San Diego,partner,candidate-verify,BIO 2026 T1 5:00,4
-Tessera Therapeutics,standalone_rna,,Gene Writing RNA-delivered genome writing,consulting,candidate-verify,BIO 2026 T3 11:45,2
-ILIAS Biologics,standalone_rna,,engineered exosome delivery RNA-payload capable,consulting,candidate-verify,BIO 2026 T1 4:00,3
-Immuno Cure,standalone_rna,,"DNA medicine + antibody; HIV/ID lens (DNA not RNA); HK",relationship,candidate-verify,BIO 2026 T4 2:15,3
-ExpressionEdits,standalone_rna,,gene-expression/intron engineering; verify RNA modality,consulting,candidate-verify,BIO 2026 T1 3:15,4
-DNA Nanobots,standalone_rna,,targeted non-viral gene DNA delivery,partner,candidate-verify,BIO 2026 T4 4:45,4
-Altratech,standalone_rna,,DNA/RNA detection PNA probes diagnostics not therapeutics,partner,candidate-verify,BIO 2026 T1 3:15,4
-Kernal Bio,standalone_rna,,selective mRNA-LNP in vivo CAR-T cancer+autoimmune,consulting,candidate-verify,BIO 2026 T3 11:15,1
-Amgen,franchise_arm,Amgen,siRNA/oligo (olpasiran),relationship,candidate-verify,BIO 2026 T2 11:45,3
-Novo Nordisk,franchise_arm,Novo Nordisk,oligo/RNAi metabolic,relationship,candidate-verify,BIO 2026 T2 12:15,3
-Daiichi Sankyo,franchise_arm,Daiichi Sankyo,ADC + RNA interest,relationship,candidate-verify,BIO 2026 T2 12:00,4
-Boehringer Ingelheim,franchise_arm,Boehringer Ingelheim,biologics CMC + RNA/gene interest,relationship,candidate-verify,BIO 2026 T2 12:00,3
-Servier,franchise_arm,Servier,oncology RNA-adjacent,relationship,candidate-verify,BIO 2026 T2 2:00,4
-Chugai,franchise_arm,Roche,Roche group RNA/biologic programs,relationship,candidate-verify,BIO 2026 T2 11:30,3
-Swiss Rockets AG,channel,,biotech portfolio umbrella intro hub,channel,candidate-verify,BIO 2026 T1 11:00,2
-Calico Life Sciences,channel,,Alphabet aging-research platform,channel,candidate-verify,BIO 2026 T1 4:15,3
-City of Hope,channel,,cancer research institution CAR/RNA programs,channel,candidate-verify,BIO 2026 T3 2:00,2
-KAIMRC,channel,,Saudi biomedical research hub,channel,candidate-verify,BIO 2026 T1 5:15,4
-King Saud bin Abdulaziz Univ for Health Sciences,channel,,Saudi academic health hub,channel,candidate-verify,BIO 2026 T1 2:45,4
-BioHarvest Sciences,channel,,plant-cell biomanufacturing platform,channel,candidate-verify,BIO 2026 T3 11:45,4
-Applied Biotechnology Institute,channel,,protein-production platform,channel,candidate-verify,BIO 2026 T1 4:15,4
-Iambic,channel,,AI-discovery target-ID node,channel,candidate-verify,BIO 2026 T4 2:30,3
-Model Medicines,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 T1 3:30,3
-Eigen Bio AI,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 T2 10:45,3
-Fathom Therapeutics,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 T4 11:00,3
-Evogene,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 T1 2:00,4
-BostonGene,channel,,AI-discovery/genomics platform,channel,candidate-verify,BIO 2026 T1 2:30,4
+Rentschler Biopharma SE,service_provider,,biologics CDMO/mRNA downstream,relationship,candidate-verify,BIO 2026 follow-up,2
+Resilience,service_provider,,advanced-therapy CDMO RNA-capable,partner,candidate-verify,BIO 2026 follow-up,2
+Celonic Group,service_provider,,biologics CDMO mAbs/bispecifics+RNA,partner,candidate-verify,BIO 2026 follow-up,3
+Mabion S.A.,service_provider,,biologics CDMO Poland,partner,candidate-verify,BIO 2026 follow-up,3
+GBI Biomanufacturing,service_provider,,large-molecule CDMO,partner,candidate-verify,BIO 2026 follow-up,3
+Forge Biologics,service_provider,,gene therapy CDMO AAV/Ajinomoto,partner,candidate-verify,BIO 2026 follow-up,3
+BSP Pharmaceuticals,service_provider,,oncology/immunotherapy CDMO,partner,candidate-verify,BIO 2026 follow-up,3
+2T Therapeutics Partnership,service_provider,,regulatory AI + CDMO co-development,partner,candidate-verify,BIO 2026 follow-up,3
+QYOBO GmbH,channel,,CDMO network intelligence platform,channel,candidate-verify,BIO 2026 follow-up,3
+Dillico,standalone_rna,,continuous mRNA/saRNA/gRNA-LNP mfg (All-ScaleFlow),consulting,candidate-verify,BIO 2026 follow-up,1
+MOTE Therapeutics,standalone_rna,,targeted LNP extrahepatic circRNA/mRNA + in vivo CAR-T,consulting,candidate-verify,BIO 2026 follow-up,1
+Combined Therapeutics,standalone_rna,,mRNA cell-selective translation platform (MOP),consulting,candidate-verify,BIO 2026 follow-up,1
+Therorna,standalone_rna,,circRNA splint-free enzymatic circularization + targeted LNP,consulting,candidate-verify,BIO 2026 follow-up,1
+NIBEC,standalone_rna,,peptide delivery NIPEP-TPP for siRNA/RNA incl BBB,consulting,candidate-verify,BIO 2026 follow-up,2
+Amber Bio,standalone_rna,,RNA editing Splice Editors multi-kilobase,consulting,candidate-verify,BIO 2026 follow-up,2
+RecoRNA,standalone_rna,,RNA-targeted (genetic/neuro/metabolic/IO); HK,consulting,candidate-verify,BIO 2026 follow-up,2
+Reborna Biosciences,standalone_rna,,RNA-targeted small molecule therapeutics,consulting,candidate-verify,BIO 2026 follow-up,3
+Sebastian BioPharma,standalone_rna,,antibody-oligonucleotide conjugate (AOC) solid tumors,consulting,candidate-verify,BIO 2026 follow-up,3
+Highlight Therapeutics,standalone_rna,,dsRNA platform BO-112,consulting,candidate-verify,BIO 2026 follow-up,3
+BTB Therapeutics,standalone_rna,,small molecule RNA splicing modifiers rare disease,consulting,candidate-verify,BIO 2026 follow-up,3
+A-Form Solutions,standalone_rna,,RNA structural biology cryo-EM tools San Diego,partner,candidate-verify,BIO 2026 follow-up,4
+Tessera Therapeutics,standalone_rna,,Gene Writing RNA-delivered genome writing,consulting,candidate-verify,BIO 2026 follow-up,2
+ILIAS Biologics,standalone_rna,,engineered exosome delivery RNA-payload capable,consulting,candidate-verify,BIO 2026 follow-up,3
+Immuno Cure,standalone_rna,,"DNA medicine + antibody; HIV/ID lens (DNA not RNA); HK",relationship,candidate-verify,BIO 2026 follow-up,3
+ExpressionEdits,standalone_rna,,gene-expression/intron engineering; verify RNA modality,consulting,candidate-verify,BIO 2026 follow-up,4
+DNA Nanobots,standalone_rna,,targeted non-viral gene DNA delivery,partner,candidate-verify,BIO 2026 follow-up,4
+Altratech,standalone_rna,,DNA/RNA detection PNA probes diagnostics not therapeutics,partner,candidate-verify,BIO 2026 follow-up,4
+Kernal Bio,standalone_rna,,selective mRNA-LNP in vivo CAR-T cancer+autoimmune,consulting,candidate-verify,BIO 2026 follow-up,1
+Amgen,franchise_arm,Amgen,siRNA/oligo (olpasiran),relationship,candidate-verify,BIO 2026 follow-up,3
+Novo Nordisk,franchise_arm,Novo Nordisk,oligo/RNAi metabolic,relationship,candidate-verify,BIO 2026 follow-up,3
+Daiichi Sankyo,franchise_arm,Daiichi Sankyo,ADC + RNA interest,relationship,candidate-verify,BIO 2026 follow-up,4
+Boehringer Ingelheim,franchise_arm,Boehringer Ingelheim,biologics CMC + RNA/gene interest,relationship,candidate-verify,BIO 2026 follow-up,3
+Servier,franchise_arm,Servier,oncology RNA-adjacent,relationship,candidate-verify,BIO 2026 follow-up,4
+Chugai,franchise_arm,Roche,Roche group RNA/biologic programs,relationship,candidate-verify,BIO 2026 follow-up,3
+Swiss Rockets AG,channel,,biotech portfolio umbrella intro hub,channel,candidate-verify,BIO 2026 follow-up,2
+Calico Life Sciences,channel,,Alphabet aging-research platform,channel,candidate-verify,BIO 2026 follow-up,3
+City of Hope,channel,,cancer research institution CAR/RNA programs,channel,candidate-verify,BIO 2026 follow-up,2
+KAIMRC,channel,,Saudi biomedical research hub,channel,candidate-verify,BIO 2026 follow-up,4
+King Saud bin Abdulaziz Univ for Health Sciences,channel,,Saudi academic health hub,channel,candidate-verify,BIO 2026 follow-up,4
+BioHarvest Sciences,channel,,plant-cell biomanufacturing platform,channel,candidate-verify,BIO 2026 follow-up,4
+Applied Biotechnology Institute,channel,,protein-production platform,channel,candidate-verify,BIO 2026 follow-up,4
+Iambic,channel,,AI-discovery target-ID node,channel,candidate-verify,BIO 2026 follow-up,3
+Model Medicines,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 follow-up,3
+Eigen Bio AI,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 follow-up,3
+Fathom Therapeutics,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 follow-up,3
+Evogene,channel,,AI-discovery platform,channel,candidate-verify,BIO 2026 follow-up,4
+BostonGene,channel,,AI-discovery/genomics platform,channel,candidate-verify,BIO 2026 follow-up,4
