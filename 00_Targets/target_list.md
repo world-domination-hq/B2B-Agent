@@ -70,6 +70,9 @@ Lean teams, pre-GMP or early-GMP, real CMC gap. Find via BIO Partnering director
 | ExpressionEdits | gene-expression/intron engineering; modality unconfirmed — verify RNA before scoring | consulting | candidate-verify |  |
 | DNA Nanobots | targeted non-viral gene (DNA) delivery | partner | candidate-verify |  |
 | Altratech | DNA/RNA detection with PNA probes; diagnostics not therapeutics | partner | candidate-verify |  |
+| NanoSyrinx | intracellular protein-delivery nanosyringe; discovery-stage, early CMC strategy fit | consulting | candidate-verify |  |
+| Macrobiome Therapeutics | biologic platform (hookworm-derived); soft look | consulting | candidate-verify |  |
+| Centivax | computational vaccine/therapy platform; ID-adjacent, soft look | consulting | candidate-verify |  |
 
 Asia-based RNA platforms with active trials (only if you take APAC clients): RiboX Therapeutics, VLP Therapeutics, Ractigen Therapeutics, Abogen (ABO2102), RinuaGene, Newish Biotech. Evidence: `confirmed` trials, `candidate-verify` for fit.
 
